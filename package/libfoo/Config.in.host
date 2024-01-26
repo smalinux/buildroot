@@ -1,0 +1,6 @@
+config BR2_PACKAGE_HOST_FOO
+   bool "host foo"
+   help
+      This is a comment that explains what foo for the host is.
+
+      http://foosoftware.org/foo/
